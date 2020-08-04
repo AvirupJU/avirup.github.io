@@ -1,7 +1,7 @@
 # avirupju.github.io
 My personal website. 
 
---> Used Bootstrap4.0 as component framework.
---> Used TypedJS(by Matt Boldt)  and ParticlesJS(by Vincent Garreau) for animations.
---> This is a dynamic project as I will keep updating stuff with time.
---> *Don't copy the source code blindly and take credits* 
+1. Used Bootstrap4.0 as component framework.
+2. Used TypedJS(by Matt Boldt)  and ParticlesJS(by Vincent Garreau) for animations.
+3. This is a dynamic project as I will keep updating stuff with time.
+4. *Don't copy the source code blindly and take credits* 
