@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+
+#loading{
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    background: black
+    url('https://media.giphy.com/media/WiIuC6fAOoXD2/giphy.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+    z-index: 99999;
+    
+}
+
+
+#particles-js{
+    background-image: url(nightr4.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+.btext{
+    color: #f9f3f4;
+    position: absolute;
+    text-align: center;
+    top: 60%;
+    width: 100%;
+    line-height: 0.4em;
+}
+
+.home h1{
+    font-size: 60px;
+}
+a.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    
+}
+li.nav-item{
+ font-family: 'Ubuntu', sans-serif;
+
+}
+.description{
+    margin-top: 50px;
+}
+.description h4{
+    padding: 5px;
+}
+.description h2{
+    padding-top: 10px;
+}
+.social-icons li a{
+    float: right;
+}
+#git{
+    background-color: black;
+    transition: 800ms ease;
+    color: #FFFDD0; 
+    border-color: #FFFDD0;
+}
+#git:hover{
+    background-color: #FFFDD0;
+    transition: 800ms ease;
+    color: black;
+}
+#linkedin{
+    background-color: black;
+    transition: 800ms ease;
+    color: orange;
+    border-color: orange;
+}
+#linkedin:hover{
+    background-color: orange;
+    transition: 800ms ease;
+    color: black;
+}
+#check{
+    background-color: black;
+    transition: 800ms ease;
+    color: #FFFF00;  
+    border-color: #FFFF00;
+}
+#check:hover{
+    background-color: #FFFF00;
+    transition: 800ms ease;
+    color: black;
+}
+::-webkit-scrollbar{
+    width: 0px;
+}
+#progressbar{
+    position: fixed;
+    top:0px;
+    right:0px;
+    width: 10px;
+    border-radius: 10px;
+    background: linear-gradient(to top,#0505f2,#05f2f2,#05f215)
+}
+
+
